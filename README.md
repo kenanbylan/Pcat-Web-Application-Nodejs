@@ -1,2 +1,2 @@
-# PCAT 
-A structure with a front side is ready, with express js and mongo db, operations are carried out in http format with post and get methods.
+# PCAT A BASİC WEB APPLİCATİON
+Using a ready-made template, the basics of Node js have been studied, and get, post, put, delete http status checks have been learned.
